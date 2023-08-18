@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "test-46d8e"
-  }
+  },
+  "targets": {
+    "test-46d8e": {
+      "hosting": {
+        "daily-image": [
+          "test-46d8e"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

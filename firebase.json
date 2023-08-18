@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "target": "daily-image",
     "public": "build/web",
     "ignore": [
       "firebase.json",
